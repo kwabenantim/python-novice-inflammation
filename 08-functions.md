@@ -226,7 +226,7 @@ def visualize(filename):
     matplotlib.pyplot.show()
 ```
 
-and another function called `detect_problems` that checks for those systematics
+We'll add another function called `detect_problems` that checks for those systematics
 we noticed:
 
 ```python

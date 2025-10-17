@@ -21,23 +21,11 @@ exercises: 15
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-In the previous episode, we analyzed a single file of clinical trial inflammation data. However,
-after finding some peculiar and potentially suspicious trends in the trial data we ask
-Dr. Maverick if they have performed any other clinical trials. Surprisingly, they say that they
-have and provide us with 11 more CSV files for a further 11 clinical trials they have undertaken
-since the initial trial.
-
-Our goal now is to process all the inflammation data we have, which means that we still have
-eleven more files to go!
-
-The natural first step is to collect the names of all the files that we have to process. In Python,
-a list is a way to store multiple values together. In this episode, we will learn how to store
+In Python, a list is a way to store multiple values together. In this episode, we will learn how to store
 multiple values in a list as well as how to work with lists.
 
 ## Python lists
 
-Unlike NumPy arrays, lists are built into the language so we do not have to load a library
-to use them.
 We create a list by putting values inside square brackets and separating the values with commas:
 
 ```python
@@ -307,8 +295,7 @@ primes: [3, 5, 7, 2]
 odds: [3, 5, 7]
 ```
 
-Subsets of lists and strings can be accessed by specifying ranges of values in brackets,
-similar to how we accessed ranges of positions in a NumPy array.
+Subsets of lists and strings can be accessed by specifying ranges of values in brackets.
 This is commonly referred to as "slicing" the list/string.
 
 ```python

@@ -19,16 +19,7 @@ exercises: 0
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-In the episode about visualizing data,
-we wrote Python code that plots values of interest from our first
-inflammation dataset (`inflammation-01.csv`), which revealed some suspicious features in it.
-
-![](fig/03-loop_2_0.png){alt="Line graphs showing average, maximum and minimum inflammation across all patients over a 40-day period."}
-
-We have a dozen data sets right now and potentially more on the way if Dr. Maverick
-can keep up their surprisingly fast clinical trial rate. We want to create plots for all of
-our data sets with a single statement. To do that, we'll have to teach the computer how to
-repeat things.
+In this episode, we'll teach the computer how to repeat things.
 
 An example task that we might want to repeat is accessing numbers in a list,
 which we
@@ -378,7 +369,7 @@ print(summed)
 
 ## Computing the Value of a Polynomial
 
-The built-in function `enumerate` takes a sequence (e.g. a [list](04-lists.md)) and
+The built-in function `enumerate` takes a sequence (e.g. a [list](02-lists.md)) and
 generates a new sequence of the same length. Each element of the new sequence is a pair composed
 of the index (0, 1, 2,...) and the value from the original sequence:
 
