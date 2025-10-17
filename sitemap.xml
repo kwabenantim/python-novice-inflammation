@@ -4,10 +4,19 @@
     <loc>https://swcarpentry.github.io/python-novice-inflammation/01-intro.html</loc>
   </url>
   <url>
+    <loc>https://swcarpentry.github.io/python-novice-inflammation/02-lists.html</loc>
+  </url>
+  <url>
     <loc>https://swcarpentry.github.io/python-novice-inflammation/02-numpy.html</loc>
   </url>
   <url>
+    <loc>https://swcarpentry.github.io/python-novice-inflammation/03-loops.html</loc>
+  </url>
+  <url>
     <loc>https://swcarpentry.github.io/python-novice-inflammation/03-matplotlib.html</loc>
+  </url>
+  <url>
+    <loc>https://swcarpentry.github.io/python-novice-inflammation/04-conditionals.html</loc>
   </url>
   <url>
     <loc>https://swcarpentry.github.io/python-novice-inflammation/04-lists.html</loc>
@@ -16,13 +25,25 @@
     <loc>https://swcarpentry.github.io/python-novice-inflammation/05-loop.html</loc>
   </url>
   <url>
+    <loc>https://swcarpentry.github.io/python-novice-inflammation/05-numpy.html</loc>
+  </url>
+  <url>
     <loc>https://swcarpentry.github.io/python-novice-inflammation/06-files.html</loc>
+  </url>
+  <url>
+    <loc>https://swcarpentry.github.io/python-novice-inflammation/06-matplotlib.html</loc>
   </url>
   <url>
     <loc>https://swcarpentry.github.io/python-novice-inflammation/07-cond.html</loc>
   </url>
   <url>
+    <loc>https://swcarpentry.github.io/python-novice-inflammation/07-files.html</loc>
+  </url>
+  <url>
     <loc>https://swcarpentry.github.io/python-novice-inflammation/08-func.html</loc>
+  </url>
+  <url>
+    <loc>https://swcarpentry.github.io/python-novice-inflammation/08-functions.html</loc>
   </url>
   <url>
     <loc>https://swcarpentry.github.io/python-novice-inflammation/09-errors.html</loc>
@@ -49,10 +70,16 @@
     <loc>https://swcarpentry.github.io/python-novice-inflammation/additional_material.html</loc>
   </url>
   <url>
+    <loc>https://swcarpentry.github.io/python-novice-inflammation/aio.html</loc>
+  </url>
+  <url>
     <loc>https://swcarpentry.github.io/python-novice-inflammation/discuss.html</loc>
   </url>
   <url>
     <loc>https://swcarpentry.github.io/python-novice-inflammation/extra_exercises.html</loc>
+  </url>
+  <url>
+    <loc>https://swcarpentry.github.io/python-novice-inflammation/images.html</loc>
   </url>
   <url>
     <loc>https://swcarpentry.github.io/python-novice-inflammation/index.html</loc>
@@ -61,10 +88,19 @@
     <loc>https://swcarpentry.github.io/python-novice-inflammation/instructor/01-intro.html</loc>
   </url>
   <url>
+    <loc>https://swcarpentry.github.io/python-novice-inflammation/instructor/02-lists.html</loc>
+  </url>
+  <url>
     <loc>https://swcarpentry.github.io/python-novice-inflammation/instructor/02-numpy.html</loc>
   </url>
   <url>
+    <loc>https://swcarpentry.github.io/python-novice-inflammation/instructor/03-loops.html</loc>
+  </url>
+  <url>
     <loc>https://swcarpentry.github.io/python-novice-inflammation/instructor/03-matplotlib.html</loc>
+  </url>
+  <url>
+    <loc>https://swcarpentry.github.io/python-novice-inflammation/instructor/04-conditionals.html</loc>
   </url>
   <url>
     <loc>https://swcarpentry.github.io/python-novice-inflammation/instructor/04-lists.html</loc>
@@ -73,13 +109,25 @@
     <loc>https://swcarpentry.github.io/python-novice-inflammation/instructor/05-loop.html</loc>
   </url>
   <url>
+    <loc>https://swcarpentry.github.io/python-novice-inflammation/instructor/05-numpy.html</loc>
+  </url>
+  <url>
     <loc>https://swcarpentry.github.io/python-novice-inflammation/instructor/06-files.html</loc>
+  </url>
+  <url>
+    <loc>https://swcarpentry.github.io/python-novice-inflammation/instructor/06-matplotlib.html</loc>
   </url>
   <url>
     <loc>https://swcarpentry.github.io/python-novice-inflammation/instructor/07-cond.html</loc>
   </url>
   <url>
+    <loc>https://swcarpentry.github.io/python-novice-inflammation/instructor/07-files.html</loc>
+  </url>
+  <url>
     <loc>https://swcarpentry.github.io/python-novice-inflammation/instructor/08-func.html</loc>
+  </url>
+  <url>
+    <loc>https://swcarpentry.github.io/python-novice-inflammation/instructor/08-functions.html</loc>
   </url>
   <url>
     <loc>https://swcarpentry.github.io/python-novice-inflammation/instructor/09-errors.html</loc>
@@ -106,19 +154,37 @@
     <loc>https://swcarpentry.github.io/python-novice-inflammation/instructor/additional_material.html</loc>
   </url>
   <url>
+    <loc>https://swcarpentry.github.io/python-novice-inflammation/instructor/aio.html</loc>
+  </url>
+  <url>
     <loc>https://swcarpentry.github.io/python-novice-inflammation/instructor/discuss.html</loc>
   </url>
   <url>
     <loc>https://swcarpentry.github.io/python-novice-inflammation/instructor/extra_exercises.html</loc>
   </url>
   <url>
+    <loc>https://swcarpentry.github.io/python-novice-inflammation/instructor/images.html</loc>
+  </url>
+  <url>
     <loc>https://swcarpentry.github.io/python-novice-inflammation/instructor/index.html</loc>
+  </url>
+  <url>
+    <loc>https://swcarpentry.github.io/python-novice-inflammation/instructor/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://swcarpentry.github.io/python-novice-inflammation/instructor/key-points.html</loc>
   </url>
   <url>
     <loc>https://swcarpentry.github.io/python-novice-inflammation/instructor/profiles.html</loc>
   </url>
   <url>
     <loc>https://swcarpentry.github.io/python-novice-inflammation/instructor/reference.html</loc>
+  </url>
+  <url>
+    <loc>https://swcarpentry.github.io/python-novice-inflammation/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://swcarpentry.github.io/python-novice-inflammation/key-points.html</loc>
   </url>
   <url>
     <loc>https://swcarpentry.github.io/python-novice-inflammation/profiles.html</loc>
