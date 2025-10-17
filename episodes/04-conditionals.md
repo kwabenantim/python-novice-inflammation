@@ -137,8 +137,6 @@ if (1 < 0) or (1 >= 0):
 at least one test is true
 ```
 
-::::::::::::::::::::::::::::::::::::::::::::::::::
-
 :::::::::::::::::::::::::::::::::::::::::  callout
 
 ## `True` and `False`
@@ -146,6 +144,8 @@ at least one test is true
 `True` and `False` are special words in Python called `booleans`,
 which represent truth values. A statement such as `1 < 0` returns
 the value `False`, while `-1 < 0` returns the value `True`.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::  challenge
 
@@ -476,5 +476,3 @@ print('The number of vowels in this string is ' + str(count))
 - `True` and `False` represent truth values.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
-
-
